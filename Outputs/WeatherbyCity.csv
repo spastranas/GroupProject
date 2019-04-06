@@ -1,0 +1,202 @@
+,index,Country,Cities,Country Code,Temperature
+0,0,Afghanistan,Kabul,AF,287.15
+1,1,Albania,Tirana (Tirane),AL,
+2,2,Algeria,Algiers,DZ,300.95
+3,3,Andorra,Andorra la Vella,AD,277.39
+4,4,Angola,Luanda,AO,301.15
+5,5,Antigua and Barbuda,Saint John's,AG,
+6,6,Argentina,Buenos Aires,AR,295.7
+7,7,Armenia,Yerevan,AM,281.15
+8,8,Australia,Canberra,AU,282.01
+9,9,Austria,Vienna,AT,282.18
+10,10,Azerbaijan,Baku,AZ,282.15
+11,11,Bahamas,Nassau,BS,285.05
+12,12,Bahrain,Manama,BH,301.94
+13,13,Bangladesh,Dhaka,BD,294.148
+14,14,Barbados,Bridgetown,BB,278.14
+15,15,Belarus,Minsk,BY,277.15
+16,16,Belgium,Brussels,BE,284.76
+17,17,Belize,Belmopan,BZ,305.16
+18,18,Benin,Porto Novo,BJ,298.148
+19,19,Bhutan,Thimphu,BT,272.698
+20,20,Bolivia,La Paz,BO,299.18
+21,21,Bosnia and Herzegovina,Sarajevo,BA,289.15
+22,22,Botswana,Gaborone,BW,294.15
+23,23,Brazil,Brasilia,BR,302.15
+24,24,Brunei,Bandar Seri Begawan,,301.03
+25,25,Bulgaria,Sofia,BG,281.8
+26,26,Burkina Faso,Ouagadougou,BF,312.15
+27,27,Burundi,Bujumbura,BI,290.648
+28,28,Cambodia,Phnom Penh,KH,302.15
+29,29,Cameroon,Yaounde,CM,298.15
+30,30,Canada,Ottawa,CA,282.65
+31,31,Cape Verde,Praia,CV,300.37
+32,32,Central African Republic,Bangui,CF,304.15
+33,33,Chad,N'Djamena,TD,310.15
+34,34,Chile,Santiago,CL,300.35
+35,35,China,Beijing,CN,280
+36,36,Colombia,Bogota,CO,293.15
+37,37,Comoros,Moroni,KM,285.24
+38,38,"Congo, Democratic Republic of the",Kinshasa,,296.15
+39,39,"Congo, Republic of the",Brazzaville,,296.15
+40,40,Costa Rica,San Jose,CR,293.348
+41,41,Cote d'Ivoire,Yamoussoukro,CI,305.56
+42,42,Croatia,Zagreb,HR,283.2
+43,43,Cuba,Havana,CU,304.97
+44,44,Cyprus,Nicosia,CY,
+45,45,Czech Republic,Prague,CZ,283.69
+46,46,Denmark,Copenhagen,DK,282.87
+47,47,Djibouti,Djibouti,DJ,301.15
+48,48,Dominica,Roseau,DM,278.71
+49,49,Dominican Republic,Santo Domingo,DO,302.92
+50,50,East Timor,Dili,,299.398
+51,51,Ecuador,Quito,EC,291.71
+52,52,Egypt,Cairo,EG,298.63
+53,53,El Salvador,San Salvador,SV,301.8
+54,54,England,London,,281.67
+55,55,Equatorial Guinea,Malabo,GQ,293.198
+56,56,Eritrea,Asmara,ER,294.648
+57,57,Estonia,Tallinn,EE,280.58
+58,58,Ethiopia,Addis Ababa,ET,292.15
+59,59,Federated States of Micronesia,Palikir,,
+60,60,Fiji,Suva,FJ,297.15
+61,61,Finland,Helsinki,FI,277.51
+62,62,France,Paris,FR,286.77
+63,63,French Guiana,Cayenne,GF,301.15
+64,64,Gabon,Libreville,GA,302.15
+65,65,Gambia,Banjul,GM,298.15
+66,66,Georgia,Tbilisi,GE,282.15
+67,67,Germany,Berlin,DE,288.74
+68,68,Ghana,Accra,GH,302.15
+69,69,Greece,Athens,GR,298.13
+70,70,Grenada,Saint George's,GD,281.78
+71,71,Guatemala,Guatemala City,GT,298.15
+72,72,Guinea,Conakry,GN,302.15
+73,73,Guinea-Bissau,Bissau,GW,305.15
+74,74,Guyana,Georgetown,GY,302.7
+75,75,Haiti,Port au Prince,HT,
+76,76,Honduras,Tegucigalpa,HN,304.97
+77,77,Hungary,Budapest,HU,281.98
+78,78,Iceland,Reykjavik,IS,277.83
+79,79,India,New Delhi,IN,305.66
+80,80,Indonesia,Jakarta,ID,298.96
+81,81,Iran,Tehran,,286.59
+82,82,Iraq,Baghdad,IQ,292.15
+83,83,Ireland,Dublin,IE,278.89
+84,84,Israel,Tel Aviv1,IL,
+85,85,Italy,Rome,IT,285.06
+86,86,Jamaica,Kingston,JM,283.18
+87,87,Japan,Tokyo,JP,284.19
+88,88,Jordan,Amman,JO,290.45
+89,89,Kazakhstan,Astana,KZ,273.15
+90,90,Kenya,Nairobi,KE,289.26
+91,91,Kiribati,Tarawa Atoll,KI,
+92,92,Kosovo,Pristina,,
+93,93,Kuwait,Kuwait City,KW,298.15
+94,94,Kyrgyzstan,Bishkek,KG,280.15
+95,95,Laos,Vientiane,,296.548
+96,96,Latvia,Riga,LV,278.78
+97,97,Lebanon,Beirut,LB,287.54
+98,98,Lesotho,Maseru,LS,282.998
+99,99,Liberia,Monrovia,LR,301.15
+100,100,Libya,Tripoli,LY,286.2
+101,101,Liechtenstein,Vaduz,LI,281.53
+102,102,Lithuania,Vilnius,LT,282.45
+103,103,Luxembourg,Luxembourg,LU,283.39
+104,104,Macedonia,Skopje,,285.4
+105,105,Madagascar,Antananarivo,MG,293.15
+106,106,Malawi,Lilongwe,MW,294.698
+107,107,Malaysia,Kuala Lumpur,MY,298.93
+108,108,Maldives,Male,MV,277.748
+109,109,Mali,Bamako,ML,310.15
+110,110,Malta,Valletta,MT,286.88
+111,111,Marshall Islands,Majuro,MH,300.63
+112,112,Mauritania,Nouakchott,MR,304.15
+113,113,Mauritius,Port Louis,MU,281.53
+114,114,Mexico,Mexico City,MX,297.95
+115,115,Moldova,Chisinau,,282.7
+116,116,Monaco,Monaco,MC,282.18
+117,117,Mongolia,Ulaanbaatar,MN,261.15
+118,118,Montenegro,Podgorica,ME,288.99
+119,119,Morocco,Rabat,MA,286.81
+120,120,Mozambique,Maputo,MZ,296.15
+121,121,Myanmar (Burma),Nay Pyi Taw2,,
+122,122,Namibia,Windhoek,,295.87
+123,123,Nauru,No official capital,NR,
+124,124,Nepal,Kathmandu,NP,288.15
+125,125,Netherlands,Amsterdam,NL,284.36
+126,126,New Zealand,Wellington,NZ,283.57
+127,127,Nicaragua,Managua,NI,307.15
+128,128,Niger,Niamey,NE,315.15
+129,129,Nigeria,Abuja,NG,307.15
+130,130,North Korea,Pyongyang,,272.198
+131,131,Northern Ireland,Belfast,,280.55
+132,132,Norway,Oslo,NO,278.52
+133,133,Oman,Muscat,OM,302.15
+134,134,Pakistan,Islamabad,PK,296.48
+135,135,Palau,Melekeok,PW,298.15
+136,136,Panama,Panama City,PA,298.47
+137,137,Papua New Guinea,Port Moresby,PG,300.198
+138,138,Paraguay,Asuncion,PY,298.15
+139,139,Peru,Lima,PE,301.15
+140,140,Philippines,Manila,PH,301.35
+141,141,Poland,Warsaw,PL,285.17
+142,142,Portugal,Lisbon,PT,285.43
+143,143,Qatar,Doha,QA,300.13
+144,144,Romania,Bucharest,RO,282.92
+145,145,Russia,Moscow,,275.3
+146,146,Rwanda,Kigali,RW,289.448
+147,147,Saint Kitts and Nevis,Basseterre,KN,303.14
+148,148,Saint Lucia,Castries,LC,283.94
+149,149,Saint Vincent and the Grenadines,Kingstown,VC,280.82
+150,150,Samoa,Apia,WS,307.15
+151,151,San Marino,San Marino,SM,292.04
+152,152,Sao Tome and Principe,Sao Tome,ST,
+153,153,Saudi Arabia,Riyadh,SA,300.15
+154,154,Scotland,Edinburgh,,279.91
+155,155,Senegal,Dakar,SN,296.06
+156,156,Serbia,Belgrade,RS,286.15
+157,157,Seychelles,Victoria,SC,301.03
+158,158,Sierra Leone,Freetown,SL,301.15
+159,159,Singapore,Singapore,SG,299.28
+160,160,Slovakia,Bratislava,SK,281.83
+161,161,Slovenia,Ljubljana,SI,280.54
+162,162,Solomon Islands,Honiara,SB,296.798
+163,163,Somalia,Mogadishu,SO,301.648
+164,164,South Africa,Pretoria,ZA,289.64
+165,165,South Korea,Seoul,,280.95
+166,166,South Sudan,Juba,SS,279.51
+167,167,Spain,Madrid,ES,280.48
+168,168,Sri Lanka,Colombo,LK,302.15
+169,169,Sudan,Khartoum,SD,307.15
+170,170,Suriname,Paramaribo,SR,304.56
+171,171,Swaziland,Mbabana,SZ,
+172,172,Sweden,Stockholm,SE,279.42
+173,173,Switzerland,Bern,CH,281.25
+174,174,Syria,Damascus,,288.15
+175,175,Taiwan,Taipei,TW,294.38
+176,176,Tajikistan,Dushanbe,TJ,285.15
+177,177,Tanzania,Dodoma3,,
+178,178,Thailand,Bangkok,TH,302.1
+179,179,Togo,Lome,TG,302.15
+180,180,Tonga,Nuku'alofa,TO,
+181,181,Trinidad and Tobago,Port of Spain,TT,303.17
+182,182,Tunisia,Tunis,TN,284.15
+183,183,Turkey,Ankara,TR,285.75
+184,184,Turkmenistan,Ashgabat,TM,290.15
+185,185,Tuvalu,Funafuti4,TV,
+186,186,Uganda,Kampala,UG,295.048
+187,187,Ukraine,Kiev,UA,283.66
+188,188,United Arab Emirates,Abu Dhabi,AE,303.67
+189,189,United Kingdom,London,GB,281.67
+190,190,United States,Washington D.C.,US,
+191,191,Uruguay,Montevideo,UY,284.88
+192,192,Uzbekistan,Tashkent,UZ,286.15
+193,193,Vanuatu,Port Vila,VU,
+194,194,Vatican City,Vatican City,,284.95
+195,195,Venezuela,Caracas,VE,300.69
+196,196,Vietnam,Hanoi,,297.15
+197,197,Wales,Cardiff,,282.86
+198,198,Yemen,Sanaa,YE,290.398
+199,199,Zambia,Lusaka,ZM,295.15
+200,200,Zimbabwe,Harare,ZW,294.548
