@@ -1,0 +1,202 @@
+,index,Country,Cities,Country Code
+0,0,Afghanistan,Kabul,AF
+1,1,Albania,Tirana (Tirane),AL
+2,2,Algeria,Algiers,DZ
+3,3,Andorra,Andorra la Vella,AD
+4,4,Angola,Luanda,AO
+5,5,Antigua and Barbuda,Saint John's,AG
+6,6,Argentina,Buenos Aires,AR
+7,7,Armenia,Yerevan,AM
+8,8,Australia,Canberra,AU
+9,9,Austria,Vienna,AT
+10,10,Azerbaijan,Baku,AZ
+11,11,Bahamas,Nassau,BS
+12,12,Bahrain,Manama,BH
+13,13,Bangladesh,Dhaka,BD
+14,14,Barbados,Bridgetown,BB
+15,15,Belarus,Minsk,BY
+16,16,Belgium,Brussels,BE
+17,17,Belize,Belmopan,BZ
+18,18,Benin,Porto Novo,BJ
+19,19,Bhutan,Thimphu,BT
+20,20,Bolivia,La Paz,BO
+21,21,Bosnia and Herzegovina,Sarajevo,BA
+22,22,Botswana,Gaborone,BW
+23,23,Brazil,Brasilia,BR
+24,24,Brunei,Bandar Seri Begawan,
+25,25,Bulgaria,Sofia,BG
+26,26,Burkina Faso,Ouagadougou,BF
+27,27,Burundi,Bujumbura,BI
+28,28,Cambodia,Phnom Penh,KH
+29,29,Cameroon,Yaounde,CM
+30,30,Canada,Ottawa,CA
+31,31,Cape Verde,Praia,CV
+32,32,Central African Republic,Bangui,CF
+33,33,Chad,N'Djamena,TD
+34,34,Chile,Santiago,CL
+35,35,China,Beijing,CN
+36,36,Colombia,Bogota,CO
+37,37,Comoros,Moroni,KM
+38,38,"Congo, Democratic Republic of the",Kinshasa,
+39,39,"Congo, Republic of the",Brazzaville,
+40,40,Costa Rica,San Jose,CR
+41,41,Cote d'Ivoire,Yamoussoukro,CI
+42,42,Croatia,Zagreb,HR
+43,43,Cuba,Havana,CU
+44,44,Cyprus,Nicosia,CY
+45,45,Czech Republic,Prague,CZ
+46,46,Denmark,Copenhagen,DK
+47,47,Djibouti,Djibouti,DJ
+48,48,Dominica,Roseau,DM
+49,49,Dominican Republic,Santo Domingo,DO
+50,50,East Timor,Dili,
+51,51,Ecuador,Quito,EC
+52,52,Egypt,Cairo,EG
+53,53,El Salvador,San Salvador,SV
+54,54,England,London,
+55,55,Equatorial Guinea,Malabo,GQ
+56,56,Eritrea,Asmara,ER
+57,57,Estonia,Tallinn,EE
+58,58,Ethiopia,Addis Ababa,ET
+59,59,Federated States of Micronesia,Palikir,
+60,60,Fiji,Suva,FJ
+61,61,Finland,Helsinki,FI
+62,62,France,Paris,FR
+63,63,French Guiana,Cayenne,GF
+64,64,Gabon,Libreville,GA
+65,65,Gambia,Banjul,GM
+66,66,Georgia,Tbilisi,GE
+67,67,Germany,Berlin,DE
+68,68,Ghana,Accra,GH
+69,69,Greece,Athens,GR
+70,70,Grenada,Saint George's,GD
+71,71,Guatemala,Guatemala City,GT
+72,72,Guinea,Conakry,GN
+73,73,Guinea-Bissau,Bissau,GW
+74,74,Guyana,Georgetown,GY
+75,75,Haiti,Port au Prince,HT
+76,76,Honduras,Tegucigalpa,HN
+77,77,Hungary,Budapest,HU
+78,78,Iceland,Reykjavik,IS
+79,79,India,New Delhi,IN
+80,80,Indonesia,Jakarta,ID
+81,81,Iran,Tehran,
+82,82,Iraq,Baghdad,IQ
+83,83,Ireland,Dublin,IE
+84,84,Israel,Tel Aviv1,IL
+85,85,Italy,Rome,IT
+86,86,Jamaica,Kingston,JM
+87,87,Japan,Tokyo,JP
+88,88,Jordan,Amman,JO
+89,89,Kazakhstan,Astana,KZ
+90,90,Kenya,Nairobi,KE
+91,91,Kiribati,Tarawa Atoll,KI
+92,92,Kosovo,Pristina,
+93,93,Kuwait,Kuwait City,KW
+94,94,Kyrgyzstan,Bishkek,KG
+95,95,Laos,Vientiane,
+96,96,Latvia,Riga,LV
+97,97,Lebanon,Beirut,LB
+98,98,Lesotho,Maseru,LS
+99,99,Liberia,Monrovia,LR
+100,100,Libya,Tripoli,LY
+101,101,Liechtenstein,Vaduz,LI
+102,102,Lithuania,Vilnius,LT
+103,103,Luxembourg,Luxembourg,LU
+104,104,Macedonia,Skopje,
+105,105,Madagascar,Antananarivo,MG
+106,106,Malawi,Lilongwe,MW
+107,107,Malaysia,Kuala Lumpur,MY
+108,108,Maldives,Male,MV
+109,109,Mali,Bamako,ML
+110,110,Malta,Valletta,MT
+111,111,Marshall Islands,Majuro,MH
+112,112,Mauritania,Nouakchott,MR
+113,113,Mauritius,Port Louis,MU
+114,114,Mexico,Mexico City,MX
+115,115,Moldova,Chisinau,
+116,116,Monaco,Monaco,MC
+117,117,Mongolia,Ulaanbaatar,MN
+118,118,Montenegro,Podgorica,ME
+119,119,Morocco,Rabat,MA
+120,120,Mozambique,Maputo,MZ
+121,121,Myanmar (Burma),Nay Pyi Taw2,
+122,122,Namibia,Windhoek,
+123,123,Nauru,No official capital,NR
+124,124,Nepal,Kathmandu,NP
+125,125,Netherlands,Amsterdam,NL
+126,126,New Zealand,Wellington,NZ
+127,127,Nicaragua,Managua,NI
+128,128,Niger,Niamey,NE
+129,129,Nigeria,Abuja,NG
+130,130,North Korea,Pyongyang,
+131,131,Northern Ireland,Belfast,
+132,132,Norway,Oslo,NO
+133,133,Oman,Muscat,OM
+134,134,Pakistan,Islamabad,PK
+135,135,Palau,Melekeok,PW
+136,136,Panama,Panama City,PA
+137,137,Papua New Guinea,Port Moresby,PG
+138,138,Paraguay,Asuncion,PY
+139,139,Peru,Lima,PE
+140,140,Philippines,Manila,PH
+141,141,Poland,Warsaw,PL
+142,142,Portugal,Lisbon,PT
+143,143,Qatar,Doha,QA
+144,144,Romania,Bucharest,RO
+145,145,Russia,Moscow,
+146,146,Rwanda,Kigali,RW
+147,147,Saint Kitts and Nevis,Basseterre,KN
+148,148,Saint Lucia,Castries,LC
+149,149,Saint Vincent and the Grenadines,Kingstown,VC
+150,150,Samoa,Apia,WS
+151,151,San Marino,San Marino,SM
+152,152,Sao Tome and Principe,Sao Tome,ST
+153,153,Saudi Arabia,Riyadh,SA
+154,154,Scotland,Edinburgh,
+155,155,Senegal,Dakar,SN
+156,156,Serbia,Belgrade,RS
+157,157,Seychelles,Victoria,SC
+158,158,Sierra Leone,Freetown,SL
+159,159,Singapore,Singapore,SG
+160,160,Slovakia,Bratislava,SK
+161,161,Slovenia,Ljubljana,SI
+162,162,Solomon Islands,Honiara,SB
+163,163,Somalia,Mogadishu,SO
+164,164,South Africa,Pretoria,ZA
+165,165,South Korea,Seoul,
+166,166,South Sudan,Juba,SS
+167,167,Spain,Madrid,ES
+168,168,Sri Lanka,Colombo,LK
+169,169,Sudan,Khartoum,SD
+170,170,Suriname,Paramaribo,SR
+171,171,Swaziland,Mbabana,SZ
+172,172,Sweden,Stockholm,SE
+173,173,Switzerland,Bern,CH
+174,174,Syria,Damascus,
+175,175,Taiwan,Taipei,TW
+176,176,Tajikistan,Dushanbe,TJ
+177,177,Tanzania,Dodoma3,
+178,178,Thailand,Bangkok,TH
+179,179,Togo,Lome,TG
+180,180,Tonga,Nuku'alofa,TO
+181,181,Trinidad and Tobago,Port of Spain,TT
+182,182,Tunisia,Tunis,TN
+183,183,Turkey,Ankara,TR
+184,184,Turkmenistan,Ashgabat,TM
+185,185,Tuvalu,Funafuti4,TV
+186,186,Uganda,Kampala,UG
+187,187,Ukraine,Kiev,UA
+188,188,United Arab Emirates,Abu Dhabi,AE
+189,189,United Kingdom,London,GB
+190,190,United States,Washington D.C.,US
+191,191,Uruguay,Montevideo,UY
+192,192,Uzbekistan,Tashkent,UZ
+193,193,Vanuatu,Port Vila,VU
+194,194,Vatican City,Vatican City,
+195,195,Venezuela,Caracas,VE
+196,196,Vietnam,Hanoi,
+197,197,Wales,Cardiff,
+198,198,Yemen,Sanaa,YE
+199,199,Zambia,Lusaka,ZM
+200,200,Zimbabwe,Harare,ZW
