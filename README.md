@@ -1,22 +1,22 @@
 # Analysis of the World Happines Report 2018
 
-Repository explaind:
+<h2> <mark>Repository Files and Folders: </mark> </h2>
 
 # Folders:
-Resources : contains the Happiness report and datasets required to analize and merge other datasets.
+<b>Resources: </b> contains the Happiness report and datasets required to analize and merge other datasets.
 
-Outputs: contains outputs from data cleaning. This outputs were were used to perform statisical analysis.
+<b>Outputs: </b> contains outputs from data cleaning. This outputs were were used to perform statisical analysis.
 
-Graphs: Graphs resulting from the final analysis.
+<b>Graphs:</b> Graphs resulting from the final analysis.
 
-WorkInProgressWorkbooks: We used this as a space to backup individual work.
+<b>WorkInProgressWorkbooks:</b> We used this as a space to backup individual work.
 
-Power Point Presentation: contains the final presentation.
+<b>Power Point Presentation:</b> contains the final presentation.
 
 # Files:
-Data Cleanup-Final: repository of all activities related to exploration and clean up of the datasources we used for our research.
+<b>Data Cleanup-Final:</b> Contains all activities related to exploration and clean up of the datasources we used for our research.
 
-Final: This workbook contains the analysis of all datasources after being cleaned up.
+<b>Final:</b> This workbook contains the analysis of all datasources after being cleaned up.
 
-Summary of Findings: our final conclusions
+<b>Summary of Findings:</b> our final conclusions
 
