@@ -1,6 +1,6 @@
 # Analysis of the World Happines Report 2018
 
-Repository definitions:
+Repository explaind:
 
 Folders:
 Resources : contains the Happiness report and datasets required to analize and merge other datasets.
