@@ -8,7 +8,7 @@
 
 
 
-# Repository Files and Folders: 
+# About This Repository Files and Folders: 
 
 <h2> <mark> &bull; Folders:</mark> </h2>
 <p><b>Resources: </b> contains the Happiness report and datasets required to analize and merge other datasets.</p>
